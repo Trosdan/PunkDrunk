@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/PunkDrunk/static/js/main.dc39ac72.chunk.js",
-    "main.js.map": "/PunkDrunk/static/js/main.dc39ac72.chunk.js.map",
+    "main.js": "/PunkDrunk/static/js/main.34bfece5.chunk.js",
+    "main.js.map": "/PunkDrunk/static/js/main.34bfece5.chunk.js.map",
     "runtime-main.js": "/PunkDrunk/static/js/runtime-main.4a5f7a9f.js",
     "runtime-main.js.map": "/PunkDrunk/static/js/runtime-main.4a5f7a9f.js.map",
     "static/js/2.e50d186c.chunk.js": "/PunkDrunk/static/js/2.e50d186c.chunk.js",
     "static/js/2.e50d186c.chunk.js.map": "/PunkDrunk/static/js/2.e50d186c.chunk.js.map",
     "index.html": "/PunkDrunk/index.html",
-    "precache-manifest.72f5ab0cad41da3b282272faf6068d37.js": "/PunkDrunk/precache-manifest.72f5ab0cad41da3b282272faf6068d37.js",
+    "precache-manifest.1672afa9edbfb76dcfa57e7c14a63a2b.js": "/PunkDrunk/precache-manifest.1672afa9edbfb76dcfa57e7c14a63a2b.js",
     "service-worker.js": "/PunkDrunk/service-worker.js",
     "static/js/2.e50d186c.chunk.js.LICENSE.txt": "/PunkDrunk/static/js/2.e50d186c.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/PunkDrunk/static/media/logo.b373ac55.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.4a5f7a9f.js",
     "static/js/2.e50d186c.chunk.js",
-    "static/js/main.dc39ac72.chunk.js"
+    "static/js/main.34bfece5.chunk.js"
   ]
 }
