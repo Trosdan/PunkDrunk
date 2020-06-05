@@ -7,7 +7,7 @@ import Layout from './components/_layout'
 
 export default function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL} >
       <GlobalStyle />
       <Layout>
         <Routes />

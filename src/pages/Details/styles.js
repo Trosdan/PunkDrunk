@@ -8,12 +8,8 @@ export const Container = styled.div`
 `
 
 export const BackButton = styled.span`
-  padding: 5px 10px;
+  border-radius: 25px;
   justify-content: center;
-  align-items: center;
-  background-color: yellow;
-  border-radius: 4px;
-  border: 1px solid gray;
 
   :hover {
     cursor: pointer;

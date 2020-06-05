@@ -50,10 +50,7 @@ export default class Home extends Component {
     let next = true
 
     previous = !pagesArray.find((item) => item <= 0)
-
-    console.log({ previous, next })
-    console.log(pagesArray)
-
+    
     return (
       <Pagination>
         {previous && (

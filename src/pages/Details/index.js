@@ -14,7 +14,6 @@ export default function Details() {
 
   const fetchBeer = useCallback(async () => {
     const { data } = await api.get(`beers/${routeMatch.params.id}`)
-    console.log({ data: data[0] })
     setBeer(data[0])
   }, [routeMatch.params.id])
 
@@ -29,8 +28,7 @@ export default function Details() {
   return (
     <Container>
       <BackButton onClick={handlerPressBack}>
-        <MdArrowBack />
-        Back
+        <MdArrowBack size={28} />
       </BackButton>
 
       <DetailsWrapper>
